@@ -13,4 +13,5 @@ func main() {
 	route.LoadPositions()
 	stringJson, _ := route.ExportJsonPositions()
 	fmt.Print(stringJson[0])
+	//		INSTALAÇÃO E CONFIGURAÇÃO DO KFKA
 }
